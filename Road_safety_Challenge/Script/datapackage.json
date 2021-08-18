@@ -1,0 +1,84 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "European union road safety facts and figures",
+      "path": "https://github.com/delelawson/Data-Wrangling-Challenge/blob/master/Road_safety_Challenge/Wrangled_Data/Wrangled_data.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "column1",
+            "type": "string",
+            "format": "default",
+            "title": "Country"
+          },
+          {
+            "name": "column2",
+            "type": "year",
+            "format": "default",
+            "title": "Year"
+          },
+          {
+            "name": "column3",
+            "type": "number",
+            "format": "default",
+            "title": "Area"
+          },
+          {
+            "name": "column4",
+            "type": "integer",
+            "format": "default",
+            "title": "Population"
+          },
+          {
+            "name": "column5",
+            "type": "integer",
+            "format": "default",
+            "title": "GDP per Capita"
+          },
+          {
+            "name": "column7",
+            "type": "integer",
+            "format": "default",
+            "title": "Population Density"
+          },
+          {
+            "name": "column9",
+            "type": "integer",
+            "format": "default",
+            "title": "Vehicle Ownership"
+          },
+          {
+            "name": "column10",
+            "type": "integer",
+            "format": "default",
+            "title": "Total Road Deaths"
+          },
+          {
+            "name": "column11",
+            "type": "integer",
+            "format": "default",
+            "title": "Road deaths per Million Inhabitants"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "Tabular Data Package ",
+  "title": "Road Safety Challenge",
+  "description": "European union road safety facts and figures dataset for 2018",
+  "homepage": "https://github.com/delelawson/Data-Wrangling-Challenge",
+  "contributors": [
+    {
+      "title": "Oladele Lawson",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "title": "MIT",
+      "path": "https://github.com/delelawson/Data-Wrangling-Challenge/blob/master/LICENSE.txt"
+    }
+  ]
+}
