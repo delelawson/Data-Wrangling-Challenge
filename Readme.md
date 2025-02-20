@@ -51,13 +51,13 @@ The resulting data is then converted to a CSV file located in the [Wrangled_Data
 ### Visualisation:
 This was seperated into 3 pages:
 
-- **1. Summary**: A summary of the data 
+- **Summary**: A summary of the data 
 <img width="744" alt="Image" src="https://github.com/user-attachments/assets/c1372757-0fbd-4d9a-a41b-55ceba5cddfc" />
 
-- **2. Statistical analysis**: This shows the correlation of road death with other factors 
+- **Statistical analysis**: This shows the correlation of road death with other factors 
 <img width="743" alt="Image" src="https://github.com/user-attachments/assets/4e0e45b1-2755-4844-826c-225f9e0399d1" />
 
-- **3. Insights and recommendation**: Shows detailed insights and profers recommendations
+- **Insights and recommendation**: Shows detailed insights and profers recommendations
 
 ### Some DAX (correlation furmula)
 ```bash
